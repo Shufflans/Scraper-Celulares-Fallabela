@@ -12,3 +12,11 @@ Como caraceterísticas de este proyecto tenemos:
 # Librerías utlizadas.
 - Pandas.
 - Requests.
+  
+## ¿Cómo Utilizarlo?
+
+1.- Clonar el repositorio a tu computador.
+2.- Instalar las dependecias
+  -  pip install -r requirements.txt
+3.- Por último ejecute el script (main.py).
+  - python src/main.py
