@@ -1,0 +1,5 @@
+# Ignorar Excels y temporales
+*.xlsx
+*.csv
+__pycache__/
+data/
